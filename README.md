@@ -7,3 +7,8 @@ First Commit
 
 Pull Request Merge
 ![Alt text](./SS%20of%20Successful%20Merge.png)
+
+Rebase
+![Alt text](./Rebase%201.png)
+![Alt text](./Rebase%202.png)
+![Alt text](./Rebase%203.png)
