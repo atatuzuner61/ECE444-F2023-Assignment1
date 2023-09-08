@@ -1,2 +1,3 @@
-# ECE444-F2023-Assignment1
+# Ata Tuzuner
+
 ECE444 Assignment 1 Repo
